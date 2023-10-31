@@ -8,6 +8,15 @@
       "expo-router"
     ],
     "name": "expo-jobs",
-    "slug": "expo-jobs"
+    "slug": "expo-jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "c35c8f08-2774-49bf-a52d-7be09b8ef9fa"
+      }
+    },
+    "owner": "devsymo"
   }
 }
